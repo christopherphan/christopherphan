@@ -3,7 +3,8 @@
 - 📫 How to reach me: `cphan` at `chrisphan.com`
 - 🔗 Website/blog: <https://chrisphan.com>
 - 😄 Pronouns: he/his/him
-- 📍 Location: Winona, Minnesota, United States
+- 📍 Location: [Winona, Minnesota, United
+  States](https://www.openstreetmap.org/#map=14/44.0475/-91.6419)
 
 #### Projects
 
