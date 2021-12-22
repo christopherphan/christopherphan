@@ -16,3 +16,5 @@
 
 * [Text Transformer](https://github.com/christopherphan/text-transformer): Javascript toy
   that lets you make text LoOk LiKe ThIs, or LIke tHIS, or rira yvxr guvf.
+
+  ![Screenshot of Text Transformer](text_transform_screen_shot.png)
