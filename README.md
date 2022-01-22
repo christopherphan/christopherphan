@@ -8,6 +8,11 @@
 
 #### Projects
 
+- Trying to find the best Wordle word:
+
+  - [Approach 1](https://gist.github.com/christopherphan/f90c264dac1b0faeb8c0d4fc87155a73)
+  - [Approach 2](https://gist.github.com/christopherphan/639a8208ac9f266d140b814a427f5fd5)
+
 - [MatrixPortal-M4 dozenal
   clock](https://github.com/christopherphan/MatrixPortal-M4-dozenal-clock):
   Digital clock that displays the time in dozenal, made from an Adafruit
