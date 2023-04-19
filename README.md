@@ -7,7 +7,7 @@
   States](https://www.openstreetmap.org/#map=14/44.0475/-91.6419)
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/christopherphan)](https://keybase.io/christopherphan)
-[![pronouns](https://img.shields.io/badge/pronouns-he%2Fhis%2Fhim-blue)](https://pronoun.is/he)
+![pronouns](https://img.shields.io/badge/pronouns-he%2Fhis%2Fhim-blue)
 
 #### Projects
 
