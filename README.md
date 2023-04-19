@@ -6,7 +6,6 @@
 - 📍 Location: [Winona, Minnesota, United
   States](https://www.openstreetmap.org/#map=14/44.0475/-91.6419)
 
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ffunctoruser%2F)](https://twitter.com/functoruser/)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/christopherphan)](https://keybase.io/christopherphan)
 [![pronouns](https://img.shields.io/badge/pronouns-he%2Fhis%2Fhim-blue)](https://pronoun.is/he)
 
